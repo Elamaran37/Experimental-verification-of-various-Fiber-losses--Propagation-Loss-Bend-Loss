@@ -1,4 +1,4 @@
-<img width="1918" height="1077" alt="Screenshot 2026-08-19 085816" src="https://github.com/user-attachments/assets/f5f6c044-e38e-4edf-9a6a-83ae5f3d43a1" /># Experimental-verification-of-various-Fiber-losses--Propagation-Loss-Bend-Loss
+# Experimental-verification-of-various-Fiber-losses--Propagation-Loss-Bend-Loss
 # Propagation and Bending Losses in Plastic Fiber
 
 ## AIM

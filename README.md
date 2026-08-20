@@ -1,4 +1,4 @@
-# Experimental-verification-of-various-Fiber-losses--Propagation-Loss-Bend-Loss
+<img width="1918" height="1077" alt="Screenshot 2026-08-19 085816" src="https://github.com/user-attachments/assets/f5f6c044-e38e-4edf-9a6a-83ae5f3d43a1" /># Experimental-verification-of-various-Fiber-losses--Propagation-Loss-Bend-Loss
 # Propagation and Bending Losses in Plastic Fiber
 
 ## AIM
@@ -94,8 +94,11 @@ This \(a\) is for **950nm wavelength**.
 
 ## TABULATION
 
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/7522354d-7bb5-4140-b532-853dfe4d0a6c" />
 
-
+## RESULT
+- Propagation loss and bending losses for **660nm** and **950nm** wavelengths were measured.  
+- Attenuation values compared and bending loss characteristics plotted.  
 
 ---
 
